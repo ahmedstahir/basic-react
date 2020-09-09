@@ -1,6 +1,6 @@
 ## First React Project
 
-The aim of this was to to
+The aim of this project was to
 - understand how to bootstrap a project with [Create React App](https://github.com/facebook/create-react-app)
 - deploy the website on [Surge](https://surge.sh)
 - use GitHub Actions to get a flavor of CI/CD
